@@ -171,6 +171,14 @@ p {
     padding: 7% 20%;
 }
 
+#footer a:link, #footer a:visited {
+    color: #ff9d9d;
+}
+
+#footer a:hover{
+    color: #ff2e63;
+}
+
 .footer-icon {
     margin: 2% 0.5rem;
 }
